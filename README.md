@@ -4,6 +4,13 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 > 🆕 **New list:** [Awesome ADE](https://github.com/kyrolabs/awesome-ade) — open-source **Agentic Development Environments**: orchestrators for running coding agents in parallel, TUI and tmux harnesses, desktop and web workspaces, worktree and container isolation. [Browse the list →](https://github.com/kyrolabs/awesome-ade)
 
+---
+
+## Development Visualization
+
+<video src="https://github.com/itsdarklikehell/awesome-agents/assets/example.com/123456/gource.mp4" controls width="100%"></video>
+
+*Gource visualization showing the repository's commit history. See the [Gource workflow](.github/workflows/gource.yml) for details.*
 ## Table of Contents
 
 - [🤖 Awesome Agents](#-awesome-agents)
