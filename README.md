@@ -1,5 +1,12 @@
 # 🤖 Awesome Agents
 
+[![CI](https://github.com/itsdarklikehell/awesome-agents/actions/workflows/ci.yml/badge.svg)](https://github.com/itsdarklikehell/awesome-agents/actions/workflows/ci.yml)
+[![Gource](https://github.com/itsdarklikehell/awesome-agents/actions/workflows/gource.yml/badge.svg)](https://github.com/itsdarklikehell/awesome-agents/actions/workflows/gource.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub issues](https://img.shields.io/github/issues/itsdarklikehell/awesome-agents)](https://github.com/itsdarklikehell/awesome-agents/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/itsdarklikehell/awesome-agents)](https://github.com/itsdarklikehell/awesome-agents/pulls)
+
+
 Awesome Agents is a curated list of open-source tools and products to build AI agents.
 
 > 🆕 **New list:** [Awesome ADE](https://github.com/kyrolabs/awesome-ade) — open-source **Agentic Development Environments**: orchestrators for running coding agents in parallel, TUI and tmux harnesses, desktop and web workspaces, worktree and container isolation. [Browse the list →](https://github.com/kyrolabs/awesome-ade)
