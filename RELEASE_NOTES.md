@@ -1,7 +1,8 @@
 # Release Notes
 
-## 2026-10-02
+## 2026-10-03
 
+* docs: update RELEASE_NOTES.md (0be8f0c)
 * docs: add README badges (251f6e6)
 * chore: add GitHub templates and workflows (513a741)
 * ci: update gource visualization (automated) (48dac40)
@@ -21,4 +22,3 @@
 * ci: update gource visualization (automated) (6f6effe)
 * chore: add gource artifact upload and commit steps (293c689)
 * chore: add Gource visualization workflow and README embed (c102775)
-* Fix broken table-of-contents anchor and stale repository URLs (#777) (d3c8990)
