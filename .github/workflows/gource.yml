@@ -1,13 +1,15 @@
 name: Gource visualization
 
-on:
+# DISABLED: Gource action outdated, consistently failing
+# on:
   push:
     branches: [main]
   workflow_dispatch:
 
 jobs:
   gource:
-    runs-on: ubuntu-latest
+    runs-# DISABLED: Gource action outdated, consistently failing
+# on: ubuntu-latest
     permissions:
       contents: write
       actions: write
@@ -21,7 +23,8 @@ jobs:
       - name: Gource Action
         uses: nbprojekt/gource-action@57256d303c5a9a5e72ed92ba13e3e83c5ec8b257 # v1.3.0
         with:
-          gource_resolution: 1080p
+          gource_resoluti# DISABLED: Gource action outdated, consistently failing
+# on: 1080p
           gource_fps: 60
           gource_filename_time: 3
           gource_hide_items: 'mouse,date,filenames'
@@ -61,4 +64,3 @@ jobs:
           git add gource.mp4 || true
           git diff --staged --quiet || git commit -m "ci: update gource visualization (automated)"
           git push
-
